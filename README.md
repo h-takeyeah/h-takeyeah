@@ -1,11 +1,12 @@
 ### Hi there 👋
-
+<!--
 <a href="https://github.com/h-takeyeah">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=h-takeyeah&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/h-takeyeah">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-takeyeah&layout=compact" />
 </a>
+-->
 
 <!--
 **h-takeyeah/h-takeyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
