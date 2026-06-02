@@ -1,24 +1,15 @@
-### Hi there 👋
-<!--
-<a href="https://github.com/h-takeyeah">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=h-takeyeah&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/h-takeyeah">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-takeyeah&layout=compact" />
-</a>
--->
+I'm a graduate student majoring in Informatics.
+Some of our lab's interests are ontology, AI, and distributed systems.
 
-<!--
-**h-takeyeah/h-takeyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm good at:
 
-Here are some ideas to get you started:
+- Python3 (I usually write(or let LLMs write) code for small hobby projects and Python3 is useful)
+- TypeScript/Node.js (server-side programming, 6 months of part-time work experience)
+- Docker / Podman (unless Kubernetes. I'm interested in how to secure images and reduce their size)
+- Serving my skills to resolve his trouble (I rarely have intrinsic motivation to make products, or make something not productive otherwise)
+- Reading man pages and finding things from a large codebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know the basics of:
+- Java (I have learned through 3 or 4 exercises at the university)
+- Go (basic network programming like HTTP server)
+- Zig (tutorial)
